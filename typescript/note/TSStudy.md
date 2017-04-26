@@ -33,7 +33,8 @@ TypeScript 可处理已有的 JavaScript 代码，并只对其中的 TypeScript 
 
 **通过 MSI 文件安装时的界面:**
 
-<iframe width=600px height=400px src="http://i1.piimg.com/567571/9324650dc0ca3bcc.gif"></iframe>
+<iframe width=600px height=400px src="http://i1.piimg.com/567571/9324650dc0ca3bcc.gif" ></iframe>
+
 
 **通过 npm 按安装的步骤：**
 1. 安装 npm
